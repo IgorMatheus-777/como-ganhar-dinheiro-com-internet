@@ -1,6 +1,9 @@
 # como-ganhar-dinheiro-com-internet
+
 ebook imersivo para iniciar trabalho com internet , tendo pouco ou zero conhecimento na area 
 
+meu projeto e voltado para pessoas com zero ou pouco conhecimento online 
+ajudando a ter uma renda extra ou aplicavel 
 
 notebooklm : https://notebooklm.google.com/notebook/b8e3cf7d-4b38-429f-84ea-0dd01d7e2fea/preview
 
