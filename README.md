@@ -1,6 +1,9 @@
 # como-ganhar-dinheiro-com-internet
 ebook imersivo para iniciar trabalho com internet , tendo pouco ou zero conhecimento na area 
+
+
 notebooklm : https://notebooklm.google.com/notebook/b8e3cf7d-4b38-429f-84ea-0dd01d7e2fea/preview
+
 OBJETIVO : METODO APLICAVEL DE ESTUDO EM RENDA EXTRA 
 
 FONTE DE TEXTO : 
