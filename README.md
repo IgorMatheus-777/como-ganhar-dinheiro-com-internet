@@ -83,6 +83,9 @@ Se você prefere algo mais estruturado e menos focado em criação de conteúdo,
 
 A curva de aprendizado mais rápida e com retorno mais direto hoje é a **Edição de Vídeos Curtos (Cortes)** ou a **Criação de Canais Sem Rosto**. Ambas utilizam ferramentas 100% gratuitas e exigem apenas o seu tempo e dedicação diária para aprender a mexer nos aplicativos básicos.
 
+
+PROMPT : queria trabalhar com internet em casa sem mostrar o rosto , queria tirar uma renda que pudesse me ajudar nas despesas de casa , nada muito difícil de fazer , que eu possa fazer com poucas coisas ou gastando pouco , esse serviço tem que ser on-line para que eu posso fazer remotamente , quero que seja ou uma plataforma de vídeos , ou algo no novo mercado moderno de computadores
+
 CONTEXTO : queria trabalhar com internet em casa sem mostrar o rosto , queria tirar uma renda que pudesse me ajudar nas despesas de casa 
 
 GUARDRAILS : nada muito difícil de fazer , que eu possa fazer com poucas coisas ou gastando pouco
